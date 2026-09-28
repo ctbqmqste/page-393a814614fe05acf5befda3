@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3e38e6e5cf52b3016ee8159a",
+  "owner": "ctbqmqste",
+  "repo": "page-393a814614fe05acf5befda3",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "393a814614fe05acf5befda3",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f844792436692a1568f362085ef4a31d7fe1fd32486e3c61a1af0c04230eafbe",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬VPN提供多种套餐服务，帮助用户实现网络高速加速和流媒体解锁。安全稳定，满足日常与企业需求。",
+          "AI_DESCRIPTION": "快柠檬VPN提供多种套餐服务，帮助用户实现网络高速加速和流媒体解锁。安全稳定，满足日常与企业需求。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n<style>\n    :root {\n        --primary: #6b46c1;\n        --light: #f8f9fa;\n        --gray: #e9ecef;\n        --dark: #212529;\n    }\n    * { box-sizing: border-box; }\n    body {\n        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n        line-height: 1.7;\n        color: var(--dark);\n        background: var(--light);\n        margin: 0;\n        padding: 0;\n    }\n    header {\n        background: linear-gradient(90deg, var(--primary), #a78bfa);\n        color: white;\n        padding: 1rem 0;\n    }\n    .nav {\n        max-width: 1200px;\n        margin: 0 auto;\n        padding: 0 20px;\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n    }\n    .logo {\n        font-size: 1.8rem;\n        font-weight: bold;\n        text-decoration: none;\n        color: white;\n    }\n    .nav-links {\n        display: flex;\n        gap: 2rem;\n        list-style: none;\n        padding: 0;\n        margin: 0;\n    }\n    .nav-links a {\n        color: white;\n        text-decoration: none;\n        font-size: 1rem;\n    }\n    .hero {\n        background: linear-gradient(135deg, var(--primary), #8b5cf6);\n        color: white;\n        text-align: center;\n        padding: 3rem 1rem;\n    }\n    .hero h1 {\n        font-size: 2.8rem;\n        margin: 0 0 1rem;\n    }\n    .hero p {\n        font-size: 1.2rem;\n        margin: 0 0 2rem;\n    }\n    .btn {\n        background: white;\n        color: var(--primary);\n        padding: 0.75rem 1.5rem;\n        border-radius: 50px;\n        text-decoration: none;\n        font-weight: 600;\n        display: inline-block;\n    }\n    section {\n        max-width: 1200px;\n        margin: 0 auto;\n        padding: 2rem 1rem;\n    }\n    h2 {\n        font-size: 2rem;\n        margin-bottom: 1rem;\n        color: var(--primary);\n    }\n    .intro {\n        text-align: center;\n        max-width: 800px;\n        margin: 0 auto;\n    }\n    .intro p {\n        font-size: 1.1rem;\n    }\n    .scenarios {\n        display: grid;\n        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));\n        gap: 1rem;\n    }\n    .scenario-card {\n        background: white;\n        padding: 1.5rem;\n        border-radius: 8px;\n        box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n    }\n    .config-steps {\n        background: white;\n        padding: 1.5rem;\n        border-radius: 12px;\n    }\n    .steps {\n        list-style: none;\n        padding: 0;\n    }\n    .steps li {\n        padding: 1rem 0;\n        border-bottom: 1px solid var(--gray);\n        display: flex;\n        align-items: flex-start;\n    }\n    .steps li:last-child { border-bottom: none; }\n    .step-num {\n        background: var(--primary);\n        color: white;\n        width: 2rem;\n        height: 2rem;\n        border-radius: 50%;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        margin-right: 1rem;\n        flex-shrink: 0;\n    }\n    .plans-section { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }\n    .plan-card {\n        background: white;\n        border-radius: 12px;\n        overflow: hidden;\n        box-shadow: 0 10px 15px -3px rgb(107 70 193 / 0.1);\n        transition: transform 0.3s;\n    }\n    .plan-card:hover { transform: translateY(-5px); }\n    .plan-card h3 { padding: 1rem; text-align: center; background: var(--light); border-bottom: 2px solid var(--primary); }\n    .plan-card ul { padding: 0 1rem; }\n    .plan-card li { margin: 0.75rem 0; padding-left: 1.5rem; position: relative; }\n    .plan-card li:before {\n        content: \"✓\";\n        position: absolute;\n        left: 0;\n        color: var(--primary);\n    }\n    .faq-section {\n        background: var(--light);\n        padding: 2rem;\n        border-radius: 12px;\n    }\n    details {\n        background: white;\n        margin: 1rem 0;\n        border-radius: 8px;\n        overflow: hidden;\n    }\n    summary {\n        padding: 1rem 1.5rem;\n        font-weight: 600;\n        cursor: pointer;\n        list-style: none;\n    }\n    summary::-webkit-details-marker { display: none; }\n    .footer {\n        background: #1a1a1a;\n        color: white;\n        padding: 2rem 0;\n        text-align: center;\n    }\n    .footer p { margin: 1rem 0; }\n    a { color: var(--primary); text-decoration: none; }\n    a:hover { text-decoration: underline; }\n    @media (max-width: 768px) {\n        .nav-links { flex-direction: column; gap: 1rem; width: 100%; }\n        .hero h1 { font-size: 2rem; }\n    }\n</style>\n\n\n<header>\n    <nav class=\"nav\">\n        <a href=\"#\" class=\"logo\">快柠檬</a>\n        <ul class=\"nav-links\">\n            <li><a href=\"#intro\">首页</a></li>\n            <li><a href=\"#config\">配置流程</a></li>\n            <li><a href=\"#plans\">套餐</a></li>\n            <li><a href=\"#faq\">FAQ</a></li>\n        </ul>\n    </nav>\n</header>\n<main>\n    <section class=\"hero\">\n        <h1>快柠檬 VPN</h1>\n        <p>高速网络加速器</p>\n        <a href=\"#plans\" class=\"btn\">立即选择套餐</a>\n    </section>\n    <section id=\"intro\">\n        <h2>品牌简介</h2>\n        <div class=\"intro\">\n            <p>快柠檬是一款专注于提供稳定网络加速服务的品牌，帮助用户实现高效、安全的互联网体验。无论您是日常上网还是需要解锁流媒体，都能找到合适的解决方案。</p>\n        </div>\n    </section>\n    <section id=\"scenarios\">\n        <h2>使用场景</h2>\n        <div class=\"scenarios\">\n            <div class=\"scenario-card\">\n                <h3>视频平台解锁</h3>\n                <p>轻松突破地域限制，观看全球内容。</p>\n            </div>\n            <div class=\"scenario-card\">\n                <h3>在线游戏加速</h3>\n                <p>优化网络延迟，提升游戏流畅度。</p>\n            </div>\n            <div class=\"scenario-card\">\n                <h3>远程办公</h3>\n                <p>保持稳定连接，确保工作无中断。</p>\n            </div>\n        </div>\n    </section>\n    <section id=\"config\">\n        <h2>配置流程</h2>\n        <div class=\"config-steps\">\n            <ol class=\"steps\">\n                <li>\n                    <span class=\"step-num\">1</span>\n                    <div>\n                        <h3>访问官网</h3>\n                        <p>进入快柠檬官方网站，选择适合您的服务。</p>\n                    </div>\n                </li>\n                <li>\n                    <span class=\"step-num\">2</span>\n                    <div>\n                        <h3>注册账号</h3>\n                        <p>完成简单注册并进行账户充值。</p>\n                    </div>\n                </li>\n                <li>\n                    <span class=\"step-num\">3</span>\n                    <div>\n                        <h3>下载客户端</h3>\n                        <p>在官网下载客户端进行安装。</p>\n                    </div>\n                </li>\n                <li>\n                    <span class=\"step-num\">4</span>\n                    <div>\n                        <h3>登录并选择节点</h3>\n                        <p>登录账号后，选择合适的线路节点连接。</p>\n                    </div>\n                </li>\n                <li>\n                    <span class=\"step-num\">5</span>\n                    <div>\n                        <h3>开启加速</h3>\n                        <p>连接成功后，即可享受网络加速服务。</p>\n                    </div>\n                </li>\n            </ol>\n        </div>\n    </section>\n    <section id=\"plans\">\n        <h2>选择您的套餐</h2>\n        {{PLANS_HTML}}\n    </section>\n    <section id=\"faq\" class=\"faq-section\">\n        <h2>常见问题</h2>\n        <details>\n            <summary>如何开始使用快柠檬VPN？</summary>\n            <p>访问官网，注册账号后下载客户端，按照指引完成连接设置即可。</p>\n        </details>\n        <details>\n            <summary>不同套餐之间有哪些区别？</summary>\n            <p>各套餐提供不同流量量和设备支持，旗舰版和团队版有更多高级功能。</p>\n        </details>\n        <details>\n            <summary>支持哪些设备和平台？</summary>\n            <p>客户端支持Windows、macOS、iOS、Android等多种操作系统。</p>\n        </details>\n        <details>\n            <summary>如何解锁流媒体服务？</summary>\n            <p>使用快柠檬VPN连接后，流媒体平台通常可直接解锁，无需额外工具。</p>\n        </details>\n        <details>\n            <summary>售后服务和支持如何？</summary>\n            <p>我们提供7x24在线客服服务，团队版用户可获得专属客户经理。</p>\n        </details>\n    </section>\n    <section>\n        <h2>合作伙伴</h2>\n        {{CLIENTS_HTML}}\n    </section>\n</main>\n<footer class=\"footer\">\n    <p>© 2024 快柠檬 VPN 所有权利保留</p>\n    <p>本页面为演示用途</p>\n</footer>\n\n",
+          "hash": "48b9acb4e71a03c02a388b0f9bbe3862902bacbd681d1a00ca53956f1e91289b",
+          "seo": {
+            "title": "快柠檬 VPN 高速网络加速器 客户端下载",
+            "keywords": "快柠檬VPN, VPN加速器, 网络加速, 客户端下载, 官网",
+            "description": "快柠檬VPN提供多种套餐服务，帮助用户实现网络高速加速和流媒体解锁。安全稳定，满足日常与企业需求。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "trnzsqp.cn",
+    "host": "home.trnzsqp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "trnzsqp.cn",
+      "url": "https://trnzsqp.cn/",
+      "label": "白月光",
+      "apex": "trnzsqp.cn",
+      "kind": null,
+      "identity": "quoqlctin/page-6b0d25156ae05d9d7a94bb7c"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3eda1d0a08cb08aa63069adc41b0759c86a2b7e613150326ae48e5fe9e3655ed",
+    "sitemap.xml": "f6746172c98b744d5f15213b9525190ca9c7a158fe51c34b45490d47e09bb497",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "775d030189067afaf14df98801cdb38e45a08271f04a9960757668730b447532",
+    "robots.txt": "2581b7485e1291d2850353927ae9958362f920035b63f7b8a3520fb4f95f0584",
+    "8321ec56fc9b2d5273402dd9e20ace79.txt": "cd0e594a4ec06e513d79586ffbbbd83ebdbca387e7dcc3246b5c4e1e11cc8c3a"
+  },
+  "revision": "578e04d3d0071fb15981ffdb81ca9a5fb8b1879d5115edd8fe668d23525f8e7d"
+}
